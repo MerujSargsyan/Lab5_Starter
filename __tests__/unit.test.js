@@ -8,8 +8,6 @@ import {
   isHexColor,
 } from '../code-to-unit-test/unit-test-me';
 
-// TODO - Part 2
-
 /** isPhone#: 2 pass, 2 fail */
 test("Valid phone number 1", function () {
   expect(isPhoneNumber("(123) 456-7890")).toBe(true);

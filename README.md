@@ -2,7 +2,7 @@
 
 ** Meruzhan Sargsyan, Ali AlSadah
 
-*** links: 
+*** links: <br>
 expose: https://merujsargsyan.github.io/Lab5_Starter/expose.html <br>
 explore: https://merujsargsyan.github.io/Lab5_Starter/explore.html
 
